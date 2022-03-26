@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Julia
+- 👩🏻‍🎓 I have a degree in Systems Analysis and Development.
+- 👩🏻‍💻 I work as a Development Trainee
+- 🌱 I’m currently learning Git and C#
